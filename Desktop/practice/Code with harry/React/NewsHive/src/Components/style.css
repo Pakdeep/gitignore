@@ -1,0 +1,11 @@
+#navbarSupportedContent ul .dropdown-menu li a.dropdown-item{
+    color:white;
+}
+
+
+.card .card-body a.readMore:hover,.container-fluid .navbar-nav .nav-item .nav-link:hover, 
+#navbarSupportedContent ul .dropdown-menu li a.dropdown-item:hover,.container .nextprev .next-prev:hover{
+    background-color: rgb(100, 100, 214);
+    color:      rgb(163, 197, 39);
+    
+}

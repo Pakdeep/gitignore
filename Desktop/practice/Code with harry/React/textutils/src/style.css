@@ -1,0 +1,44 @@
+.navbar .container-fluid .color {
+    display: flex;
+    gap: 15px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 200px;
+}
+
+.navbar .container-fluid .color button {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+}
+.navbar .container-fluid .color .btnss{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar .container-fluid .color button:hover {
+    width: 28px;
+    height: 28px;
+}
+
+.navbar .container-fluid .color #red {
+    background-color: red;
+}
+
+.navbar .container-fluid .color #yellow {
+    background-color: yellow;
+}
+
+.navbar .container-fluid .color #green {
+    background-color: green;
+}
+
+.navbar .container-fluid .color #purple {
+    background-color: purple;
+}
