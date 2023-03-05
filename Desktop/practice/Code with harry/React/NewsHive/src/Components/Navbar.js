@@ -10,6 +10,7 @@ export default class Navbar extends Component {
             <Link className="navbar-brand" to="/">
               News-Hive
             </Link>
+            {/* deepak jaiswal */}
             <button
               className="navbar-toggler"
               type="button"
